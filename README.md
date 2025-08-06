@@ -9,4 +9,12 @@ The Xenu mythos is pretty well documented at this point. So this branch needs to
 am thinking that this should be like a Zork adventure where you go travel into the distant past and to a faraway planet, but are still bound by the physical
 limitations of the game map. That map could be stared in a Base58 tablet.
 
+For now, this whole universe in three rooms:
+
+
+              guard room -> throme room -> computer room
+
+Resolution is found by getting past the guards, seeing Xenu, hearing his speech, and then racing into the computer room as a countdown is taking place.
+You can just flip a switch to stop the system and foil his plans. Then your world begins to swirl around and you are returned to the present.
+
 The experience is designed to bring emotional resolution.
